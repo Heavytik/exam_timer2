@@ -1,8 +1,8 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/exam_timer/node_module
-/exam_timer_form/node_module
+/exam_timer/node_modules
+/exam_timer_form/node_modules
 
 # testing
 /coverage
